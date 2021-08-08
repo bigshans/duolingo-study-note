@@ -1,0 +1,6 @@
+[book]
+authors = ["Bigshans"]
+language = "en"
+multilingual = false
+src = "src"
+title = "多邻国学习合辑"
