@@ -1,5 +1,7 @@
 # 多邻国 Latin 学习
 
+[TOC]
+
 # Introduction
 
 ### Salvete
@@ -111,4 +113,20 @@
 | scribit | he,she writes   |                                            |
 | in urbe | in the city     |                                            |
 | doml    | at home         |                                            |
+
+# Greetings
+
+## Salve(te)!
+
+在拉丁语中，我们使用 **salve** 去和某人打招呼。当你想要和超过一个人说你好时，你要使用 **salvete** 。
+
+**ave** 和 **avete** 是更正式打招呼方式。
+
+## Vocative
+
+让我们一起来看看下面的句子。
+
+> Salvete, Stephane et Marce!
+
+Stephanus 和 Marcus 在这个例子中都被称呼，你应该对 Stephanus 和 Marcus 说“salvete”。大多数以 -us 结尾（第二变格）的阳性词将以 -e 结尾。名字以 -a 结尾的不做改变。（Salve, Livia!）
 

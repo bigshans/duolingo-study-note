@@ -4,3 +4,7 @@ language = "en"
 multilingual = false
 src = "src"
 title = "多邻国学习合辑"
+[preprocessor.toc]
+command = "mdbook-toc"
+renderer = ["html"]
+marker = "[TOC]"
