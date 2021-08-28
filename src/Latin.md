@@ -122,11 +122,102 @@
 
 **ave** 和 **avete** 是更正式打招呼方式。
 
-## Vocative
+## Vocative（呼格）
 
 让我们一起来看看下面的句子。
 
 > Salvete, Stephane et Marce!
 
-Stephanus 和 Marcus 在这个例子中都被称呼，你应该对 Stephanus 和 Marcus 说“salvete”。大多数以 -us 结尾（第二变格）的阳性词将以 -e 结尾。名字以 -a 结尾的不做改变。（Salve, Livia!）
+Stephanus 和 Marcus 在这个例子中都被称呼，你应该对 Stephanus 和 Marcus 说“salvete”。大多数（单词以 -ius 结尾的，会变为 -i 结尾）以 -us 结尾（第二变格）的阳性词将以 -e 结尾。名字以 -a 结尾的不做改变。（Salve, Livia!）
+
+这是呼格，常用于呼唤他人。
+
+当我们将呼格翻译成英语时，我们会保留主格/范式。
+
+## Nomen mihi est
+
+这句话最常用的方式就是说“我的名字是”。现在，我们不会深入介绍语法，但一些有用的短语需要知道。记住下面的拉丁语，不用太在乎语序。
+
+| Latin                      | English                 |
+| -------------------------- | ----------------------- |
+| Nomen **mihi** est Marcus. | **My** name is Marcus.  |
+| **Tibi** nomen est Livia.  | **Your** name is Livia. |
+| Nomen **el** Lucius est.   | **His** name is Lucius. |
+| Nomen **ei** est Lesbia.   | **Her** name is Lesbia. |
+
+## How are you?
+
+你将会学用两种去问某人怎样。
+
+1. Quid + ago ? -> Quid agis?
+
+   如字面上所表示的，意思为“你正在干什么？”。
+
+   | Subject | Verb |
+   | ------- | ---- |
+   | ego     | ago  |
+   | tu      | agis |
+   | is, ea  | agit |
+
+2) Quomodo + se + habeo ? -> Quomodo te habes ?
+
+   如字面上所表示的，意思为“你感觉怎么样？”。
+
+   | Subject | Verb  |
+   | ------- | ----- |
+   | ego     | habeo |
+   | tu      | habes |
+   | is, ea  | habet |
+
+   **Se** 是反身代词。
+
+   | Subject | Verb | English         |
+   | ------- | ---- | --------------- |
+   | ego     | me   | myself          |
+   | tu      | te   | yourself        |
+   | is, ea  | se   | himself/herself |
+
+## Advers（副词）
+
+**bene** 和 **male** 都是副词。副词是提供有关动词、形容词或其他副词的更多信息的词。 在英语中，这些形式通常会添加 -ly，而在拉丁语中，第一和第二变格形容词的副词以 **-e** 结尾。
+
+> Bene dormio. - I sleep well. (不是“I sleep good.”)
+
+## -ne
+
+在句子的第一个单词后面加上后缀-ne，表示这是一个是或否的简单问题。 -ne 不是强制性的，可以省略。
+
+| Latin                  | English            | Potential answers            |
+| ---------------------- | ------------------ | ---------------------------- |
+| Estne Roma in Italia ? | Is Rome in Italy ? | (Yes, it is./No, it is not.) |
+| Roma in italia est ?   | Is Rome in Italy ? | (Yes, it is./No, it is not.) |
+
+## 第一变位  (-are)
+
+**habitare / habito** （住在某处，居住）是遵循动词第一变位法的动词。你可以通过动词词干中的 **-a-** 识别这些动词 。（-a- 合并后以 -o 表示第一人称单数。）
+
+| Subject | Habitare | Amare | Stare(to stand) |
+| ------- | -------- | ----- | --------------- |
+| ego     | habito   | amo   | sto             |
+| tu      | habitas  | amas  | stas            |
+| is, ea  | habitat  | amat  | stat            |
+
+## 新词汇
+
+| Latin     | English            | Addition Info        |
+| --------- | ------------------ | -------------------- |
+| nomen     | name               | 3rd, neut.           |
+| Italia    | Italy              | 1fst, fem.           |
+| Roma      | Rome               | 1st, fem.            |
+| habito    | I live, I reside   | habitare, 1st conj.  |
+| me habeo  | I feel, I am doing | se habere, 2nd conj. |
+| ago       | I do, I act        | agere, 3rd conj.     |
+| salve(te) | hello              |                      |
+| quid      | what               |                      |
+| quomodo   | how                |                      |
+| ubi       | where              |                      |
+| bene      | well               |                      |
+| male      | badly, poorly      |                      |
+| ita       | yes, so            |                      |
+| minimme   | no, not at all     |                      |
 
